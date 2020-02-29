@@ -1,10 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+// import './index.css';
 import App from './App';
+// import SignIn from './Signin';
+// import { BrowserRouter as Router } from 'react-router-dom';
+ import { HashRouter  as Router } from 'react-router-dom'
 import * as serviceWorker from './serviceWorker';
+import { ThemeProvider } from '@zendeskgarden/react-theming';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<ThemeProvider><Router>
+    <App /></Router></ThemeProvider>, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
