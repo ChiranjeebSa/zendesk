@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/migartion_hub/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/migartion_hub/static/js/main.ff2d4901.chunk.js",
+    "main.js.map": "/migartion_hub/static/js/main.ff2d4901.chunk.js.map",
+    "runtime-main.js": "/migartion_hub/static/js/runtime-main.9a926119.js",
+    "runtime-main.js.map": "/migartion_hub/static/js/runtime-main.9a926119.js.map",
+    "static/js/2.bcba5007.chunk.js": "/migartion_hub/static/js/2.bcba5007.chunk.js",
+    "static/js/2.bcba5007.chunk.js.map": "/migartion_hub/static/js/2.bcba5007.chunk.js.map",
+    "index.html": "/migartion_hub/index.html",
+    "precache-manifest.a80c1b44f4babe5196b8ec19ce95fa7f.js": "/migartion_hub/precache-manifest.a80c1b44f4babe5196b8ec19ce95fa7f.js",
+    "service-worker.js": "/migartion_hub/service-worker.js",
+    "static/css/main.6a934dfc.chunk.css.map": "/migartion_hub/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.bcba5007.chunk.js.LICENSE.txt": "/migartion_hub/static/js/2.bcba5007.chunk.js.LICENSE.txt",
+    "static/media/Login_Banner.png": "/migartion_hub/static/media/Login_Banner.19811fde.png",
+    "static/media/Migration_Hub_logo.png": "/migartion_hub/static/media/Migration_Hub_logo.e91c0033.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a926119.js",
+    "static/js/2.bcba5007.chunk.js",
+    "static/css/main.6a934dfc.chunk.css",
+    "static/js/main.ff2d4901.chunk.js"
+  ]
+}
